@@ -17,7 +17,7 @@
     "apollo-link": "^1.2.2",
     "apollo-link-http": "^1.5.4",
     "graphql": "^0.13.2",
-    "graphql-request": "^1.8.1",
+    "graphql-request": "^1.7.0",
     "graphql-tools": "^3.1.1",
     "node-fetch": "^2.2.0",
     "source-map-support": "^0.5.6"
